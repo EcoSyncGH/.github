@@ -25,7 +25,7 @@ Te proporcionando agilidade e eficiência na busca por esses locais.
 
 - [João Pedro Silva](https://github.com/joaopedrosilva23)
 
-  <p align="center">
+  <p>
   <a href = "mailto:ecosyncofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://trello.com/b/bVJySE7u/ecosync"><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" target="_blank"></a>
   </p>
