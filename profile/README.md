@@ -14,7 +14,7 @@ Te proporcionando agilidade e eficiência na busca por esses locais.
 - 🔍 Busca manual por região
 
 
-# Membros da Equipe:
+## Membros da Equipe:
 - [Clara Ribeiro ](https://github.com/ClaraRibeiro09)
   
 - [Sara Vieira](https://github.com/saravs858)
