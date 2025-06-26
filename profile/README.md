@@ -1,7 +1,6 @@
 # ♻️ EcoSync – Encontre os Ecopontos mais próximos de você.
 
-**EcoLocal** é um aplicativo que viza ajudar os usuários a localizarem ecopontos com base na **localização atual** e no **tipo de material** que desejam descartar (plástico, vidro, eletrônico, óleo, entre outros).  
-Te proporcionando agilidade e eficiência na busca por esses locais. 
+**EcoLocal** é um aplicativo que viza ajudar os usuários a localizarem ecopontos com base na **localização atual** e no **tipo de material** que desejam descartar (plástico, vidro, eletrônico, óleo, entre outros).  Te proporcionando agilidade e eficiência na busca por esses locais. 
 
 ---
 
